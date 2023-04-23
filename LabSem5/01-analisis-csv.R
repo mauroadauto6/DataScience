@@ -1,0 +1,1 @@
+auto <- read.csv("C:/Users/U S U A R I O/Documents/UPC/Ciclo V/Fundamentos de Data Science/LAB-S5/auto-mpg.csv", header = TRUE, sep = ,)
