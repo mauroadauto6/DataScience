@@ -1,0 +1,3 @@
+NOTA---
+Archivo 01-analisis-html
+Si no se ejecuta correctamente, agregar un library(XML) al inicio y correr el código.
